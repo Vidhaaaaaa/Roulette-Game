@@ -10,6 +10,7 @@ start = (input('do u want to start the game? (Y/N): ').lower())
 if start == 'y':
     print("""// WELCOME TO ROULETTE WITH MATHS //
                     // Made by Vidha //
+        // I do not support gambling this is just for fun //
                   // GAME IS STARTING //""")
 
 elif start == 'n':
